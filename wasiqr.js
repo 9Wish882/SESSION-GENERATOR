@@ -86,10 +86,6 @@ router.get('/', async (req, res) => {
 > https://wa.me/255656582542
 
 *𝐓𝐇𝐈𝐒 𝐁𝐎𝐓 🤖 𝐈𝐒 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐋𝐋𝐀𝐍@𝐃𝐀𝐕𝐈𝐍𝐂𝐒*❒❒❒❒❒❒❒❒❒`
-╚════════════════════════╝
-_____________________________________
-	
-_Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
